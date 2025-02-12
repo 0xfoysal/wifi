@@ -76,10 +76,6 @@ sudo systemctl restart NetworkManager
   lsusb
   ```
 
-## Conclusion
-You should now have your wireless adapter in monitor mode. If you encounter issues, check driver support and network configurations.
-
----
 
 ### Disclaimer
 Monitor mode should be used for ethical and legal purposes only. Ensure you have permission before capturing network traffic.
