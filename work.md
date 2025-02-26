@@ -115,3 +115,9 @@ getoutput : cap2hccapx
 hashcat -m 2500 output.hccapx wordlist.txt --force
 
 *****************************************************
+
+  signal name generated
+  ```
+  sudo airbase-ng -a [bssid] --essid "foysal" -c 11 wlan0
+  sudo airodump-ng wlan0mon -c 6 & wireshark
+  ```
