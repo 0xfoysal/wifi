@@ -76,6 +76,12 @@ sudo systemctl restart NetworkManager
   lsusb
   ```
 
+  signal name generated
+  ```
+  sudo airbase-ng -a [bssid] --essid "foysal" -c 11 wlan0
+  sudo airodump-ng wlan0mon -c 6 & wireshark
+  ```
+
 
 ### Disclaimer
 Monitor mode should be used for ethical and legal purposes only. Ensure you have permission before capturing network traffic.
