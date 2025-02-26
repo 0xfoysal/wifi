@@ -1,9 +1,9 @@
 product : https://www.startech.com.bd/tp-link-archer-t2u-plus-ac600-600mbps-usb-adapter
 TP-Link AC600 Archer T2U Plus
 
-tab -> select color
-m -> pick a random color
-s -> default sort by different range
+tab -> select color  <br />
+m -> pick a random color  <br />
+s -> default sort by different range  <br />
 i -> invert sort algorithm
 
 
